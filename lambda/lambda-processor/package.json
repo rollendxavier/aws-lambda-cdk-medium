@@ -1,0 +1,13 @@
+{
+    "name": "lambda-processor",
+    "version": "1.0.1",
+    "dependencies": {
+        "csv-stringify": "^6.2.3",
+        "fs": "0.0.1-security",
+        "uuid": "^9.0.0",
+        "aws-sdk":"^2.1298.0"
+    },
+    "devDependencies": {
+        "@types/uuid": "^9.0.0"
+    }
+}
